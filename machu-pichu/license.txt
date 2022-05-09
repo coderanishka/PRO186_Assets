@@ -1,0 +1,11 @@
+Model Information:
+* title:	Estação Arqueológica do Prazo
+* source:	https://sketchfab.com/3d-models/estacao-arqueologica-do-prazo-93e53e58d1a844ec932eba0c7fe3ce57
+* author:	Lagar do Avô (https://sketchfab.com/lagardoavo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Estação Arqueológica do Prazo" (https://sketchfab.com/3d-models/estacao-arqueologica-do-prazo-93e53e58d1a844ec932eba0c7fe3ce57) by Lagar do Avô (https://sketchfab.com/lagardoavo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
